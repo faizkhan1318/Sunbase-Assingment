@@ -1,4 +1,4 @@
-# Sunbase-Customer-Assingment Backend
+# Sunbase-Customer-Assignment Backend
 
 ## Description
 
